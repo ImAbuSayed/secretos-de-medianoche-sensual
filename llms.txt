@@ -1,4 +1,4 @@
-# Secretos de medianoche sensual
+# Secretos de medianoche sensual, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Secretos de medianoche sensual |
+| **Title** | Secretos de medianoche sensual, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-medianoche-sensual/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Secretos de medianoche sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-medianoche-sensual/) |
+| **Get License** | [Official Music Licensing for Secretos de medianoche sensual, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-medianoche-sensual/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, cuando cae la noche te pones pa' mí
+> Sé que tú me buscas porque soy tu VIP
+> Tus ojos me dicen lo que calla tu boca
+> Esta madrugá' te voy a volver loca
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `bbe7db150427b3a9742e5159151d47c826e4d88cf862c61121e58b9ec186385e` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

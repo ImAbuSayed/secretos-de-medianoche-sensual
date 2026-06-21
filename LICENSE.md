@@ -1,6 +1,6 @@
 # License
 
-**Secretos de medianoche sensual**
+**Secretos de medianoche sensual, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
